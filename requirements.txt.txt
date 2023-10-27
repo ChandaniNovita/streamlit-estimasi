@@ -1,5 +1,0 @@
-numpy
-pandas
-matplotlib
-sckit-learn
-sreamlit
